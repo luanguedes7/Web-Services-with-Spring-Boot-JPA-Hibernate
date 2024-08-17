@@ -24,7 +24,7 @@ This is a back-end application designed to practice web services concepts with S
 # How to run the project
 
 ## Back-end
-Pré-requisitos: Java 17
+Requirements: Java 17
 
 ```bash
 # Clone repository
