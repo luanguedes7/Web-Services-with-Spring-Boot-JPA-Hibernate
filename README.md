@@ -31,7 +31,7 @@ Requirements: Java 17
 git clone https://github.com/luanguedes7/Web-Services-with-Spring-Boot-JPA-Hibernate.git
 
 # Enter the back-end project folder
-cd backend
+cd Web-Services-with-Spring-Boot-JPA-Hibernate
 
 # Run the project
 ./mvnw spring-boot:run
